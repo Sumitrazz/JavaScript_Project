@@ -1,5 +1,5 @@
  this is link to
 
- <br/>
- <br/>
+ <br>
+ <br>
  [countdownusingjs.netlify.app](countdownusingjs.netlify.app)
