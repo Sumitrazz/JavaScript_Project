@@ -1,2 +1,2 @@
  this is link to
- [LINK](countdownusingjs.netlify.app)
+ [countdownusingjs.netlify.app](countdownusingjs.netlify.app)
